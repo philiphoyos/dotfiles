@@ -1,0 +1,22 @@
+
+# secrets
+.ssh/id_*
+.ssh/known_hosts
+.gitconfig
+
+# in progress
+.aliases
+.functions
+
+# should be installed
+.pyenv/*
+.poetry/*
+
+
+# cache
+.vscode-server/*
+.cache
+.zsh_history
+.python_history
+.zcompdump*
+.wget-hsts
