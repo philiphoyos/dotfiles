@@ -2,6 +2,7 @@
 # secrets
 .ssh/id_*
 .ssh/known_hosts
+.ssh/config
 .gitconfig
 
 # in progress
@@ -20,3 +21,4 @@
 .python_history
 .zcompdump*
 .wget-hsts
+.bash_history 
